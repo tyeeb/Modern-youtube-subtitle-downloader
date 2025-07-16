@@ -14,7 +14,6 @@ A modern web application to download subtitles from YouTube videos in various la
 
 ## Screenshots
 
-[Add screenshots of your application here]
 
 ## Installation
 
